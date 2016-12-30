@@ -1,0 +1,43 @@
+Không phải là ngẫu nhiên mà framework Ruby on Rails đang được sử dụng ngày càng nhiều. Nó phát triển nhanh chóng và có thể dễ dàng thích hợp với hầu hết các loại hình kinh doanh trực tuyến. Một số ví dụ về các lĩnh vực mà người ta có thể áp dụng thành công RoR (Ruby on Rails) để xây dựng các ứng dụng web tùy chỉnh là thương mại điện tử, du lịch, giáo dục, v.v…
+
+Airbnb, Shopify, Dribbble - là những công ty lớn được biết đến bởi hầu hết mọi người trên thế giới. Tất cả đều có ít nhất hai điểm chung: họ bắt đầu các dự án của mình như là một MVP (tối thiểu mà có thể sống được) và đã sử dụng Ruby on Rails cho mục đích đó.
+
+Và danh sách này còn dài hơn, bao gồm: Twitter, Hulu, Yellow Pages... Chúng tôi đã gặp rất nhiều khách hàng yêu cầu phát triển phần back-end trong các dự án của họ bằng RoR chỉ vì họ đã nghe nói rằng Twitter cũng sử dụng nó. Nhưng tại sao lại là Ruby on Rails? Tại sao tất cả các công ty đó lại quyết định sử dụng framework này cho sản phẩm của họ?
+
+Bạn sẽ nhận được câu trả lời khi đọc đến cuối bài viết này. Nhưng chúng ta hãy cùng xem xét một số bối cảnh lịch sử trước khi chuyển đến lý do tại sao các startup sử dụng Ruby on Rails để xây dựng các dự án của họ nhé!
+
+# Tóm tắt lịch sử
+
+Ruby on Rails là một web framework được viết bằng ngôn ngữ lập trình Ruby. Điều khiến cho nó tương tự như các web framework khác là sử dụng Model-View-Controller để lập trình các ứng dụng. Nhưng sự khác biệt là nó có rất nhiều công cụ giúp tăng tốc quá trình phát triển và làm cho công việc được dễ dàng hơn. Đó là một trong những lý do tại sao RoR được coi là một giải pháp hoàn hảo cho các startup.
+
+Ruby on Rails đã được phát hành vào năm 2004 bởi David Heinemeier Hansson. Nó được đưa ra như là một giải pháp mã nguồn mở mà bất cứ ai cũng có thể đóng góp. David nảy sinh ý tưởng này khi anh đang làm việc trên công cụ quản lý dự án có tên là Basecamp. Sau đó, vào tháng 7 năm 2007, David trở nên nổi tiếng khi Apple thông báo đã đưa Ruby on Rails vào Mac OS X mới nhất của họ. Đó là một sự kiện mang tính bước ngoặt đối với sự phát triển xa hơn của framework này. Và đó cũng là một thành công lớn.
+
+Vào năm 2008 một framework mới để lập trình các ứng dụng web tên là Merb xuất hiện. Đó là một đối thủ xứng đáng cung cấp cho các lập trình viên một số tính năng còn thiếu trong Ruby on Rails. Để lấp đầy những khoảng trống trong cả hai hệ thống, người ta đã quyết định hợp nhất chúng lại. Bằng cách này, Ruby on Rails tăng cường sự hiện diện của nó và cung cấp nhiều lợi ích hơn cho các môn đệ của mình.
+
+Hiện nay, sự phổ biến của Ruby on Rails ngày càng tăng lên nhanh chóng. Những phiên bản mới được phát hành định kỳ, những giải pháp mới liên tục được cung cấp, và cộng đồng đang mở rộng rất nhanh chóng.
+
+Vậy thì, đâu là điểm đặc biệt của RoR? Tại sao framework này trở nên phổ biến và giá trị thực sự của nó là gì? Bây giờ chúng ta hãy cùng điểm qua những lý do tại sao nên sử dụng Ruby on Rails cho một công ty startup.
+
+## Lý do tại sao các startup sử dụng Ruby on Rails
+
+- Tốc độ. Thời gian và tiền bạc là hai yếu tố quan trọng mà startup nào cũng phải đặt lên hàng đầu. Khi bị giới hạn bởi ít nhất một trong số chúng, các công ty luôn tìm kiếm những cách thức để đẩy nhanh quá trình phát triển và tiết kiệm tiền bạc đề dành cho việc tiếp thị hoặc phát triển tính năng trong tương lai. Với Ruby on Rails, thời gian cần để xây dựng một dự án ngắn hơn đáng kể vì có rất nhiều thư viện của bên thứ ba, trong đó có chứa một số chức năng có sẵn. Nó rất dễ dàng thêm vào một ứng dụng, kéo theo sự tăng tốc của quá trình phát triển.
+- Những giải pháp được làm sẵn. RoR có một số giải pháp được làm sẵn và các công cụ giúp cho nó có thể xây dựng các dự án nhanh và hiệu quả hơn. Có vẻ như nó có rất nhiều module và plugin hữu ích để giải quyết hầu hết các vấn đề mà bạn cần phải giải quyết. So với các ngôn ngữ lập trình và framework khác, thời gian phát triển có thể giảm đi từ 30-40%. Tất nhiên, phụ thuộc rất nhiều vào trình độ các lập trình viên của bạn. Đó là lý do tại sao khi tìm thuê các lập trình viên Ruby on Rails, hãy xem xét những người có kinh nghiệm và lành nghề. Có như vậy thì dự án của bạn mới có thể kiểm soát được.
+- Khả năng chịu tải cao. Ruby on Rails có khả năng mở rộng. Nó giúp bạn xây dựng những kiến trúc có khả năng mở rộng để có thể chịu tải cao. Hãy xem qua các "tay chơi lớn" như Basecamp, Groupon hoặc GitHub. Chúng ta không nói về các trang web nhỏ, mà về những trang web có hàng triệu khách viếng thăm mỗi tháng. Tất cả chúng đều được tạo ra trên nền tảng Ruby on Rails.
+- Bảo mật. Framework RoR được coi là một trong những nền tảng an toàn nhất. Kể từ ngày phát hành đầu tiên, họ đã rất quan tâm đến độ tin cậy và tính bảo mật của các ứng dụng Ruby on Rails. Nó cho phép xây dựng các dự án web an toàn, do đó ngăn ngừa các kiểu tấn công SQL-injections và XSS (cross-site scripting). Một số tính năng có sẵn theo mặc định trong khi những cái khác yêu cầu cài đặt plugin bổ sung. Các lập trình viên được yêu cầu phải thực hiện theo Secure Development Lifecycle và nếu có điều gì sai, cộng đồng sẽ phản ứng một cách nhanh chóng và giải quyết vấn đề.
+- Bugs. Việc chọn Ruby on Rails để phát triển phần back-end sẽ giúp bạn có thể ngủ ngon mỗi đêm. Nó cho phép tìm thấy và loại bỏ bất kỳ bug hoặc các vấn đề kỹ thuật ngay lập tức. Tất cả những điều này sẽ giúp phần mềm được tạo ra có chất lượng cao.
+- Phát triển nhanh. Kể từ khi RoR là một framework mã nguồn mở được hỗ trợ bởi các lập trình viên có tay nghề cao từ khắp nơi trên thế giới, nó phát triển cực kỳ nhanh chóng. Framework này chứa hầu hết các công nghệ mới nhất để phát triển các dự án web. Chúng cho phép xây dựng các phần mềm an toàn và hiệu quả hơn. Rất nhiều giải pháp mới xuất hiện và trở thành không thể thay thế. Thật thú vị khi chờ đón những điều xảy ra tiếp theo. Chúng tôi đang chờ đợi bản cập nhật mới từ RoR.
+- Miễn phí. Mỗi cá nhân hoặc công ty đang có kế hoạch để khởi chạy một quy trình phát triển cần phải nắm rõ không chỉ giá của phát triển dự án mà còn các chi phí bổ sung liên quan đến nó. Chúng là các chi phí liên quan đến tiếp thị, máy chủ, và các khoản phí khác. Bạn có thực sự cần phải trả tiền cho việc sử dụng một ngôn ngữ lập trình, ngoài những thứ khác nữa không? Nó không phải là quá nhiều cho một startup ư? Từ quan điểm này, Ruby on Rails là một lựa chọn hoàn hảo mà bạn sẽ không phải chi thêm tiền vào đó. Nó là miễn phí.
+- Cộng đồng lớn. RoR có một cộng đồng lớn, góp phần giới thiệu framework này được phát triển rộng rãi hơn. Họ tạo ra các tài liệu thích hợp và hướng dẫn kỹ thuật về cách sử dụng Ruby on Rails, tổ chức các hội thảo, webinars, các khóa học online/offline, các bài học video. Tất nhiên, các lập trình viên chuyên nghiệp tham gia các sự kiện này để nhằm nâng cao kỹ năng của họ. Bên cạnh đó, cộng đồng phát triển RoR rất có trách nhiệm. Chắc chắn là trong trường hợp bạn cần phải giải quyết một vấn đề khẩn cấp, họ sẽ cung cấp cho bạn một lời khuyên.
+- Nhiều developer tài năng. Việc tìm thuê các lập trình viên tài năng là khá dễ dàng. Mặc dù bạn cần phải nhận thức được một số ưu và khuyết điểm liên quan đến việc lựa chọn trong số những tài năng Ruby. Cân nhắc rằng RoR là một framework khó lập trình hơn so với những công nghệ khác, cái ngưỡng để gia nhập cộng đồng RoR là khá cao. Điều này có nghĩa là số lượng lập trình viên Ruby tài năng là hiếm hơn, nhưng chất lượng cao hơn rất nhiều. Về cơ bản, tên framework đã phản ánh ngữ cảnh đó. Ngôn ngữ này rất dễ đọc và có cấu trúc tốt. Đây là một lợi thế lớn, đặc biệt là trong trường hợp bạn quyết định thay đổi nhóm phát triển. Một nhóm mới sẽ có thể nhanh chóng nhảy vào và tiếp tục công việc không quá khó khăn.
+
+# Kết luận
+
+Tóm lại, các startup có thể chỉ cần xem xét đến Ruby on Rails khi phát triển web. Nó là linh hoạt, có khả năng mở rộng và tốc độ nhanh. Nó đáp ứng các yêu cầu phổ biến, và một số điểm quan trọng là:
+
+- giảm bớt chi phí phát triển;
+- tiết kiệm thời gian;
+- nhanh chóng đưa sản phẩm ra thị trường.
+
+Bên cạnh đó, việc lập trình với framework này mang lại rất nhiều niềm vui. Còn điều gì có thể tốt hơn một lập trình viên có tay nghề và thích thú làm việc trên dự án của bạn? Vì vậy đừng ngần ngại chọn framework này, và Ruby on Rails có thể mang lại những lợi ích vô giá cho doanh nghiệp của bạn.
+
+Mặc dù là tốt như vậy, Ruby on Rails có cả ưu và nhược điểm. Một trong những nhược điểm của nó có thể trở nên rõ ràng khi một dự án đạt đến kích thước của mạng xã hội Twitter. Khi cần phải xử lý hơn 200-300 request mỗi giây, người ta có thể cần mở rộng cơ sở hạ tầng hoặc để tái phát triển một số thành phần code quan trọng với sự giúp đỡ của các giải pháp như Scala.
