@@ -42,7 +42,7 @@ Khi nói về Node.js, có một điều không thể bị bỏ qua, đấy là 
 
 Danh sách trên đây chỉ mang tính giới thiệu. Thực tế còn rất nhiều các module mạnh mẽ khác nữa, sẽ để giành cho bạn đọc tìm hiểu.
  
-Ví dụ thực tế sử dụng Node.js
+# Ví dụ thực tế sử dụng Node.js
 
 ## Chat
 
