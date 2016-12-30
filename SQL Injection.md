@@ -97,9 +97,9 @@ Cách làm trên chỉ đúng để xác thực với kiểu của dữ liệu c
 Và một trong những cách tốt để chống tấn công SQLi là tránh sử dụng dấu nhanh đơn trong lệnh SQL khi không có string được truyền vào. Bạn sử dụng đoạn code này: 
 ```sql
 $sql_command = "select * from users where age = " . $age; 
-
+```
 sẽ an toàn hơn việc sử dụng dòng lệnh này:
-
+```sql
 $sql_command = "select * from users where age = '" . $age . "'"; 
 ```
 
