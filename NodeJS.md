@@ -40,7 +40,7 @@ Khi nói về Node.js, có một điều không thể bị bỏ qua, đấy là 
 - Underscore (lodash, lazy): thư viện cung cấp rất nhiều tiện ích, được sử dụng phổ biến nhất trong Javascript, được gói gọn trong Node.js, với cách thực thi khác biệt, hứa hẹn sẽ mang đến hiệu năng tốt hơn.
 - Forever: rõ ràng đây là tiện ích thông dụng nhất, giúp cho mã Node chạy một cách liên tục.
 
-Danh sách trên đây chỉ mang tính giới thiệu. Thực tế còn rất nhiều các module mạnh mẽ khác nữa, sẽ để giành cho bạn đọc tìm hiểu :fu:
+Danh sách trên đây chỉ mang tính giới thiệu. Thực tế còn rất nhiều các module mạnh mẽ khác nữa, sẽ để giành cho bạn đọc tìm hiểu.
  
 Ví dụ thực tế sử dụng Node.js
 
