@@ -184,7 +184,7 @@ print(A + B)
 end)(2, 3)
 --Kết quả: 5
 ```
--Định nghĩa và gọi hàm cục bộ
+- Định nghĩa và gọi hàm cục bộ
 ```lua
   do
       local LclAverage = function(Num1, Num2)
@@ -257,7 +257,6 @@ end
   end 
      
 -- Tạo 2 cặp hàm Get và Inc, một cặp khởi tạo 0 và 1 cặp khởi tạo 100:
-```lua
   GetA, IncA = MakeGetAndInc(0)
   GetB, IncB = MakeGetAndInc(100) 
   -- Xuất ra màn hình:
@@ -333,12 +332,9 @@ Cả 3 ngôn ngữ đều hỗ trợ các phép toán sau:
 
 **Kết luận:**
 Cả ba ngôn ngữ Python, Ruby, LUA có cùng khả năng biểu diễn các phép toán đại số và các biểu thức toán học.
-STT
-Kiểu dữ liệu và giá trị
-Python
-Ruby
-Lua
-Nhận xét
+|---|---|---|---|---|---|
+| STT | Kiểu dữ liệu và giá trị | Python | Ruby | Lua | Nhận xét|
+|---|---|---|---|---|---|
 1.
 Nil
 X
